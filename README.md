@@ -1,8 +1,8 @@
-### Hi there 👋, My name is Muzni
+## Hi there 👋, My name is Muzni
 ## Kia Ora / Welcome,
 Hi There, Thanks for hopping on my Github Home. I hope you will find something interesting or useful here. 
 
-## :: A bit About Me :) <br>
+## A bit About Me :) <br>
 <p> I am a Dad of two beautiful kids. I am also a Cybersecrity and Technical Support Analyst living in the beautiful island nation New Zealand where theres not short of breathtaking views, pristine rivers, and the home of Rugby, Cricket and yummy oyster. <br>
 <p> I love cooking, Travelling & tech stuff. <br>
 <p> I cook delicious Asian dishes such as Chicken Tikka, Chicken Kadai, Mutton Curry and Biriyani.<br>
@@ -32,15 +32,6 @@ Skills: Log Analysis| Network Analysis| DDoS Mitigation| Vulnerability Assessmen
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muzable)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/muzable/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.muzable.net/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?muzable=https://github.com/muzable)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?muzable=https://github.com/muzable&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?muzable=https://github.com/muzable)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/muzable)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/muzable)  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzable)](https://github.com/anuraghazra/github-readme-stats)
