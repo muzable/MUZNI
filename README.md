@@ -21,15 +21,15 @@ Skills: Log Analysis| Network Analysis| DDoS Mitigation| Vulnerability Assessmen
 <p>Network Analysis <br>
 <p>Log Analysis <br>
 <p>SIEMS : IBM Qradar / Splunk/ AlienVault / MS Sentinel / Darktrace <br> 
-IPS, IDS & Firewall : FortiAnalyser, PfSense, Arkime(Moloch) & Suricata
-Vulnerability Assessment : Tenable 
-Cyber Security Frameworks and Compliances: NIST, ISO 27001, GDPR, MITRE ATT&CK, Cyber Kill Chain.
-Ethical Hacking Tools : Metasploit, Nmap, Hydra, LinPEAS and WinPEAS, Burpsuite.
-Programming Languages : Python, Bash, KQL, HTML, CSS, Java Script
-Malware Analysis : Remnux, FlareVM
-Digital Forensics : Knowledge of digital forensics principles and techniques to collect, preserve, and analyze digital evidence related to security incidents.
-Incident Handling: Proficiency in handling security incidents from initial detection and triage to containment, eradication, and recovery.
-Continuous Improvement: A mindset for continuous learning and improvement, staying updated with the latest trends, techniques, and tools in incident response and cybersecurity.
+<p>IPS, IDS & Firewall : FortiAnalyser, PfSense, Arkime(Moloch) & Suricata <br>
+<p>Vulnerability Assessment : Tenable  <br>
+<p>Cyber Security Frameworks and Compliances: NIST, ISO 27001, GDPR, MITRE ATT&CK, Cyber Kill Chain. <br>
+<p>Ethical Hacking Tools : Metasploit, Nmap, Hydra, LinPEAS and WinPEAS, Burpsuite. <br>
+<p>Programming Languages : Python, Bash, KQL, HTML, CSS, Java Script <br>
+<p>Malware Analysis : Remnux, FlareVM <br>
+<p>Digital Forensics : Knowledge of digital forensics principles and techniques to collect, preserve, and analyze digital evidence related to security incidents. <br>
+<p>Incident Handling: Proficiency in handling security incidents from initial detection and triage to containment, eradication, and recovery. <br>
+<p>Continuous Improvement: A mindset for continuous learning and improvement, staying updated with the latest trends, techniques, and tools in incident response and cybersecurity. <br> </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muzable)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/muzable/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.muzable.net/)  
 
