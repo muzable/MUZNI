@@ -1,35 +1,64 @@
-# Hi there 👋, My name is Muzni
-## Welcome to my home of Cybersecurity Projects. 
-
-## :technologist: A bit about me :) <br>
-<p>I'm a dad and a cybersecurity enthusiast living in New Zealand, where breathtaking views, pristine rivers, rugby, cricket, and oysters are all on the menu. :smiley: <br>
-<!-- COMMENT  <p> I love cooking, Travelling & tech stuff. <br> -->
-<!-- COMMENT <p> I cook delicious Asian dishes such as Chicken Tikka, Chicken Kadai, Mutton Curry and Biriyani.<br>
-<p> I have lived in the UK, travelled around Europe and to Dubai <br>
-<p> I Have over 10 years ofexperience as a Technical Analyst and in cyber security, spanning various organizations, including major telecommunications companies. I am currently a CyberSecurity Analyst at a large telecommunications company and MSSP in New Zealand. <br> </p>  -->
-
-- :trophy: I’m a Certified Security Blue Team Level-1 (BTL1) Incident Responder
-- 🌱 I’m currently learning for PNPT 
-- 👯 I’m looking to collaborate on Cyber Security Blue , Red & Purple team stuff with like minds
+# List of My Certs
+<p><i>"life itself is your teacher, and you are in a state of constant learning." 
+- Bruce Lee </i><br>
+  
+<h2>Description</h2>
+Below are some of my certs I have achieved so far. 
+<br />
 
 
-## :mechanical_arm: ====== Some of my Skills are ====== :mechanical_arm:
-<p> DDoS Mitigation <br>
-<p>Network Analysis <br>
-<p>Log Analysis <br>
-<p>SIEMS : IBM Qradar / Splunk/ AlienVault / MS Sentinel / Darktrace <br> 
-<p>IPS, IDS & Firewall : FortiAnalyser, PfSense, Arkime(Moloch) & Suricata <br>
-<p>Vulnerability Assessment : Tenable  <br>
-<p>Cyber Security Frameworks and Compliances: NIST, ISO 27001, GDPR, MITRE ATT&CK, Cyber Kill Chain. <br>
-<p>Ethical Hacking Tools : Metasploit, Nmap, Hydra, LinPEAS and WinPEAS, Burpsuite. <br>
-<p>Programming Languages : Python, Bash, KQL, HTML, CSS, Java Script <br>
-<p>Malware Analysis : Remnux, FlareVM <br>
-<p>Digital Forensics : Knowledge of digital forensics principles and techniques to collect, preserve, and analyze digital evidence related to security incidents. <br>
-<p>Incident Handling: Proficiency in handling security incidents from initial detection and triage to containment, eradication, and recovery. <br>
-<p>Continuous Improvement: A mindset for continuous learning and improvement, staying updated with the latest trends, techniques, and tools in incident response and cybersecurity. <br> </p>
+<!-- COMMENT <h2>Languages and Utilities Used</h2> 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muzable)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/muzable/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.muzable.net/)  
+- <b>PowerShell</b> 
+- <b>Diskpart</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b> (21H2)
+
+<h2>Program walk-through:</h2>
+-->
+
+<p align="center">
+Security Blue Team Level-1 Cert <br/>
+<img src="https://i.imgur.com/MowprPA.jpg" height="80%" width="80%" alt="BTL1 Cert with Gold Coin"/>
+<br />
+<br />
+Udemy - MS Security Operation Analyst (SC-200)  <br/>
+<img src="https://i.imgur.com/SNiIjli.png" height="80%" width="80%" alt="MS Security Operation Analyst (SC-200)"/>
+<br />
+<br />
+GRC Analyst Master Class <br/>
+<!-- COMMENT<img src="" height="80%" width="80%" alt=""/>
+<br />
+
+<!-- COMMENT
+  <br />
+
+  Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzable)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
