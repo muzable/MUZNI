@@ -27,11 +27,29 @@ Security Blue Team Level-1 Cert <br/><br />
 Udemy - MS Security Operation Analyst (SC-200)  <br/><br />
 <img src="https://i.imgur.com/SNiIjli.png" height="80%" width="80%" alt="MS Security Operation Analyst (SC-200)"/>
 <br />
-<br />
+<br /> 
 GRC Analyst Master Class <br/><br />
-<!-- COMMENT<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/IwmcxYx.png" height="80%" width="80%" alt="GRC Analyst Master Class"/>
 <br />
+<br /> 
+National Dip. in Cybersecuriy -1<br/><br />
+<img src="https://i.imgur.com/hneKqJb.png" height="80%" width="80%" alt="National Dip. in Cybersecuriy -1"/>
+<br />
+<br /> 
+National Dip. in Cybersecuriy - 2<br/><br />
+<img src="https://i.imgur.com/CEk6M3X.png" height="80%" width="80%" alt="National Dip. in Cybersecuriy - 2"/>
+<br />
+<br /> 
+Udemy - CompTIA Security + <br/><br />
+<img src="https://i.imgur.com/vy83nqS.png" height="80%" width="80%" alt="Udemy - CompTIA Security +"/>
+<br />
+<br /> 
+Udemy - Kali Linux for Beginners <br/><br />
+<img src="https://i.imgur.com/1SsbkYV.jpg" height="80%" width="80%" alt="Udemy - Kali Linux for Beginners"/>
+  
+  <br />
 
+  
 <!-- COMMENT
   <br />
 
