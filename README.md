@@ -5,8 +5,8 @@
 <h2>Description</h2>
 Below are some of my certs I have achieved so far. 
 <br />
-
-
+<br />
+<br />
 <!-- COMMENT <h2>Languages and Utilities Used</h2> 
 
 - <b>PowerShell</b> 
@@ -20,15 +20,15 @@ Below are some of my certs I have achieved so far.
 -->
 
 <p align="center">
-Security Blue Team Level-1 Cert <br/>
+Security Blue Team Level-1 Cert <br/><br />
 <img src="https://i.imgur.com/MowprPA.jpg" height="80%" width="80%" alt="BTL1 Cert with Gold Coin"/>
 <br />
 <br />
-Udemy - MS Security Operation Analyst (SC-200)  <br/>
+Udemy - MS Security Operation Analyst (SC-200)  <br/><br />
 <img src="https://i.imgur.com/SNiIjli.png" height="80%" width="80%" alt="MS Security Operation Analyst (SC-200)"/>
 <br />
 <br />
-GRC Analyst Master Class <br/>
+GRC Analyst Master Class <br/><br />
 <!-- COMMENT<img src="" height="80%" width="80%" alt=""/>
 <br />
 
