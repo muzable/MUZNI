@@ -20,8 +20,12 @@ Below are some of my certs I have achieved so far.
 -->
 
 <p align="center">
-Security Blue Team Level-1 Cert <br/><br />
+Security Blue Team Level-1 (BTL1) Cert <br/><br />
 <img src="https://i.imgur.com/MowprPA.jpg" height="80%" width="80%" alt="BTL1 Cert with Gold Coin"/>
+<br />
+<br />
+Security Blue Team Junior Analyst (BTLJA) Cert in Vulnerability Management <br/><br />
+<img src="https://i.imgur.com/XSe1brR.png" height="80%" width="80%" alt="BTLJA Cert in Vulnerability Management"/>
 <br />
 <br />
 Udemy - MS Security Operation Analyst (SC-200)  <br/><br />
