@@ -1,21 +1,20 @@
-# List of My Certs
-<p><i>"life itself is your teacher, and you are in a state of constant learning." 
+
+<p align="center">><i>"life itself is your teacher, and you are in a state of constant learning." 
 - Bruce Lee </i><br>
+<p align="center">><i>"The best investment you can make, is an investment in yourself. The more you learn the more you'll earn." 
+- Warren Buffet</i><br>
   
-<h2>Description</h2>
+# List of My Certs
 Below are some of my certs I have achieved so far. 
 <br />
 <br />
-<br />
+
+
 <!-- COMMENT <h2>Languages and Utilities Used</h2> 
-
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
-
+ <b>Diskpart</b>
 <h2>Environments Used </h2>
-
 - <b>Windows 10</b> (21H2)
-
 <h2>Program walk-through:</h2>
 -->
 
